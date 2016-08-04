@@ -12,5 +12,9 @@ color:
     - '#DD403A'
 layout_spectrum: 0.05172227
 name: Icedot
+navigation:
+  - name: r
+    id: 82af8e51-0441-43f0-a306-14f208d4771c
+    type: content
 title: Cambia la forma de pedalear..
 description: www.icedot.cl
