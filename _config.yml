@@ -1,0 +1,14 @@
+layout_spectrum: 0.05172227
+typography_spectrum: 0.1768973
+color:
+  saturation: 0.4122787
+  lightness: 0.2243836
+  brandStrength: 0.4867466
+  rhythmicContrast: 0.04765236
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Icedot
