@@ -1,4 +1,3 @@
-layout_spectrum: 0.05172227
 typography_spectrum: 0.1768973
 color:
   saturation: 0.4122787
@@ -11,5 +10,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.05172227
 name: Icedot
 title: Cambia la forma de pedalear..
+description: www.icedot.cl
