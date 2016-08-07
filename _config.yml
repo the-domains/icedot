@@ -1,20 +1,32 @@
-typography_spectrum: 0.1768973
+title: Cambia la forma de pedalear..
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.4122787
-  lightness: 0.2243836
-  brandStrength: 0.4867466
-  rhythmicContrast: 0.04765236
+  saturation: 0.8369176
+  brandStrength: 0
+  lightness: 0.7437276
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-layout_spectrum: 0.05172227
-name: Icedot
+  rhythmicContrast: 0.7419355
+typography_spectrum: 0.08064516
+description: www.icedot.cl
 navigation:
   - name: r
     id: 82af8e51-0441-43f0-a306-14f208d4771c
     type: content
-title: Cambia la forma de pedalear..
-description: www.icedot.cl
+layout_spectrum: 0.9874552
+name: Icedot
